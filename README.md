@@ -15,7 +15,8 @@ A simple tool, reverse-engineered (and fast-vibecoded :p) from the official Real
 3. Unscrew and flip the circuit board over.
 4. Set the UART adapter to 1.8V.
 5. Solder the LOG pin to any GND pin. Solder to the UART (in crossover) and GND for UART adapter. The photo below shows what to do and how to do it.
-6. Don't forget to unsolder the LOG pin after dumping (if you want to keep using them, of course :D).
+6. Solder the battery pins back if you unsoldered them. After that, the red LED should light up dimly.
+7. Don't forget to unsolder the LOG pin after dumping (if you want to keep using them, of course :D).
 
 <details>
 
