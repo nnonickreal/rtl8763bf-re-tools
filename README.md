@@ -48,6 +48,10 @@ Help message:
 python rtl-dump.py
 ```
 
+## Firmware files
+
+[Here](firmwares/) is my dumped BootROM and full flash dump from Tune 510 BT
+
 ## Support
 
 If this was helpful to you, you can help me too — support my research with a donation!
